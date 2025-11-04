@@ -1,0 +1,20 @@
+[
+  { "entity":"account",  "id":"acc-main", "name":"Основной счёт", "balance":0 },
+  { "entity":"account",  "id":"acc-save", "name":"Накопительный", "balance":0 },
+
+  { "entity":"category", "id":"inc-salary", "name":"Зарплата", "type":"Доход" },
+  { "entity":"category", "id":"inc-cashbk", "name":"Кэшбэк",  "type":"Доход" },
+  { "entity":"category", "id":"exp-cafe",   "name":"Кафе",    "type":"Расход" },
+  { "entity":"category", "id":"exp-health", "name":"Здоровье","type":"Расход" },
+
+  { "entity":"operation","id":"op-001","type":"Доход",  "bank_account_id":"acc-main","category_id":"inc-salary","amount":120000,"date":"01 2025 11","description":"Зарплата" },
+  { "entity":"operation","id":"op-002","type":"Расход", "bank_account_id":"acc-main","category_id":"exp-cafe",  "amount":1500,  "date":"02 2025 11","description":"Кофе и ланч" },
+  { "entity":"operation","id":"op-003","type":"Расход", "bank_account_id":"acc-main","category_id":"exp-health","amount":4200,  "date":"03 2025 11","description":"Аптека" },
+  { "entity":"operation","id":"op-004","type":"Доход",  "bank_account_id":"acc-main","category_id":"inc-cashbk","amount":800,   "date":"03 2025 11","description":"Кэшбэк" },
+  { "entity":"operation","id":"op-004","type":"Доход",  "bank_account_id":"acc-main","category_id":"inc-cashbk","amount":800,   "date":"03 2025 11","description":"Кэшбэк" },
+  { "entity":"operation","id":"op-005","type":"123",  "bank_account_id":"acc-main","category_id":"inc-cashbk","amount":800,   "date":"03 2025 11","description":"Кэшбэк" },
+  { "entity":"operation","id":"op-006","type":"Доход",  "bank_account_id":"acc-main1","category_id":"inc-cashbk","amount":800,   "date":"03 2025 11","description":"Кэшбэк" },
+  { "entity":"operation","id":"op-007","type":"Доход",  "bank_account_id":"acc-main","category_id":"inc-cashbk1","amount":800,   "date":"03 2025 11","description":"Кэшбэк" },
+  { "entity":"operation","id":"op-008","type":"Доход",  "bank_account_id":"acc-main","category_id":"inc-cashbk","amount":-800,   "date":"03 2025 11","description":"Кэшбэк" }
+  
+]

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\y2p00\\Downloads\\\u043F\u0440\u043E\u0435\u043A\u0442 2\\FinanceManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}|docs{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}|C:\\Users\\y2p00\\Downloads\\\u043F\u0440\u043E\u0435\u043A\u0442 2\\FinanceManager\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}|docs{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3328A541-05FD-4103-BAFE-D8F9EE7BFB26}|ExampleFile{3328A541-05FD-4103-BAFE-D8F9EE7BFB26}|C:\\Users\\y2p00\\Downloads\\\u043F\u0440\u043E\u0435\u043A\u0442 2\\FinanceManager\\example.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{3328A541-05FD-4103-BAFE-D8F9EE7BFB26}|ExampleFile{3328A541-05FD-4103-BAFE-D8F9EE7BFB26}|solutionrelative:example.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3328A541-05FD-4103-BAFE-D8F9EE7BFB26}|ExampleFile{3328A541-05FD-4103-BAFE-D8F9EE7BFB26}|C:\\Users\\y2p00\\Downloads\\\u043F\u0440\u043E\u0435\u043A\u0442 2\\FinanceManager\\example.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3328A541-05FD-4103-BAFE-D8F9EE7BFB26}|ExampleFile{3328A541-05FD-4103-BAFE-D8F9EE7BFB26}|solutionrelative:example.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\y2p00\\Downloads\\\u043F\u0440\u043E\u0435\u043A\u0442 2\\FinanceManager\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\y2p00\\Downloads\\\u043F\u0440\u043E\u0435\u043A\u0442 2\\FinanceManager\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-11-04T14:26:53.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "example.json",
+              "DocumentMoniker": "C:\\Users\\y2p00\\Downloads\\\u043F\u0440\u043E\u0435\u043A\u0442 2\\FinanceManager\\example.json",
+              "RelativeDocumentMoniker": "example.json",
+              "ToolTip": "C:\\Users\\y2p00\\Downloads\\\u043F\u0440\u043E\u0435\u043A\u0442 2\\FinanceManager\\example.json",
+              "RelativeToolTip": "example.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-04T14:26:37.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "example.csv",
+              "DocumentMoniker": "C:\\Users\\y2p00\\Downloads\\\u043F\u0440\u043E\u0435\u043A\u0442 2\\FinanceManager\\example.csv",
+              "RelativeDocumentMoniker": "example.csv",
+              "ToolTip": "C:\\Users\\y2p00\\Downloads\\\u043F\u0440\u043E\u0435\u043A\u0442 2\\FinanceManager\\example.csv",
+              "RelativeToolTip": "example.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-11-04T14:26:15.624Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

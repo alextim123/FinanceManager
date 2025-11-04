@@ -1,0 +1,157 @@
+[
+  {
+    "entity": "account",
+    "id": "acc-main",
+    "name": "Основной счёт",
+    "balance": 162000
+  },
+  {
+    "entity": "account",
+    "id": "acc-save",
+    "name": "Накопительный",
+    "balance": 0
+  },
+  {
+    "entity": "category",
+    "id": "inc-salary",
+    "name": "Зарплата",
+    "type": "Доход"
+  },
+  {
+    "entity": "category",
+    "id": "inc-cashbk",
+    "name": "Кэшбэк",
+    "type": "Доход"
+  },
+  {
+    "entity": "category",
+    "id": "exp-cafe",
+    "name": "Кафе",
+    "type": "Расход"
+  },
+  {
+    "entity": "category",
+    "id": "exp-health",
+    "name": "Здоровье",
+    "type": "Расход"
+  },
+  {
+    "id": "op-001",
+    "type": "доход",
+    "account": {
+      "id": "acc-main",
+      "name": "Основной счёт",
+      "balance": 0
+    },
+    "amount": 120000,
+    "date": "2025-11-01",
+    "description": "Зарплата",
+    "category": {
+      "id": "inc-salary",
+      "type": "доход",
+      "name": "Зарплата"
+    }
+  },
+  {
+    "id": "op-002",
+    "type": "расход",
+    "account": {
+      "id": "acc-main",
+      "name": "Основной счёт",
+      "balance": 120000
+    },
+    "amount": 1500,
+    "date": "2025-11-02",
+    "description": "Кофе и ланч",
+    "category": {
+      "id": "exp-cafe",
+      "type": "расход",
+      "name": "Кафе"
+    }
+  },
+  {
+    "id": "op-003",
+    "type": "расход",
+    "account": {
+      "id": "acc-main",
+      "name": "Основной счёт",
+      "balance": 118500
+    },
+    "amount": 4200,
+    "date": "2025-11-03",
+    "description": "Аптека",
+    "category": {
+      "id": "exp-health",
+      "type": "расход",
+      "name": "Здоровье"
+    }
+  },
+  {
+    "id": "op-004",
+    "type": "доход",
+    "account": {
+      "id": "acc-main",
+      "name": "Основной счёт",
+      "balance": 114300
+    },
+    "amount": 800,
+    "date": "2025-11-03",
+    "description": "Кэшбэк",
+    "category": {
+      "id": "inc-cashbk",
+      "type": "доход",
+      "name": "Кэшбэк"
+    }
+  },
+  {
+    "id": "op-005",
+    "type": "расход",
+    "account": {
+      "id": "acc-main",
+      "name": "Основной счёт",
+      "balance": 115100
+    },
+    "amount": 900,
+    "date": "2025-11-04",
+    "description": "Кофе",
+    "category": {
+      "id": "exp-cafe",
+      "type": "расход",
+      "name": "Кафе"
+    }
+  },
+  {
+    "id": "op-006",
+    "type": "доход",
+    "account": {
+      "id": "acc-main",
+      "name": "Основной счёт",
+      "balance": 114200
+    },
+    "amount": 50000,
+    "date": "2025-11-05",
+    "description": "Бонус",
+    "category": {
+      "id": "inc-salary",
+      "type": "доход",
+      "name": "Зарплата"
+    }
+  },
+  {
+    "id": "op-007",
+    "type": "расход",
+    "account": {
+      "id": "acc-main",
+      "name": "Основной счёт",
+      "balance": 164200
+    },
+    "amount": 2200,
+    "date": "2025-11-06",
+    "description": "Витамины",
+    "category": {
+      "id": "exp-health",
+      "type": "расход",
+      "name": "Здоровье"
+    }
+  }
+]

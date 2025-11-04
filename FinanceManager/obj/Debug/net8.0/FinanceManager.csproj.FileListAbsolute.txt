@@ -1,0 +1,60 @@
+C:\Users\y2p00\source\repos\FinanceManager\FinanceManager\bin\Debug\net8.0\FinanceManager.exe
+C:\Users\y2p00\source\repos\FinanceManager\FinanceManager\bin\Debug\net8.0\FinanceManager.deps.json
+C:\Users\y2p00\source\repos\FinanceManager\FinanceManager\bin\Debug\net8.0\FinanceManager.runtimeconfig.json
+C:\Users\y2p00\source\repos\FinanceManager\FinanceManager\bin\Debug\net8.0\FinanceManager.dll
+C:\Users\y2p00\source\repos\FinanceManager\FinanceManager\bin\Debug\net8.0\FinanceManager.pdb
+C:\Users\y2p00\source\repos\FinanceManager\FinanceManager\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\y2p00\source\repos\FinanceManager\FinanceManager\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\y2p00\source\repos\FinanceManager\FinanceManager\bin\Debug\net8.0\FinanceModel.dll
+C:\Users\y2p00\source\repos\FinanceManager\FinanceManager\bin\Debug\net8.0\FinanceModel.pdb
+C:\Users\y2p00\source\repos\FinanceManager\FinanceManager\obj\Debug\net8.0\FinanceManager.csproj.AssemblyReference.cache
+C:\Users\y2p00\source\repos\FinanceManager\FinanceManager\obj\Debug\net8.0\FinanceManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\y2p00\source\repos\FinanceManager\FinanceManager\obj\Debug\net8.0\FinanceManager.AssemblyInfoInputs.cache
+C:\Users\y2p00\source\repos\FinanceManager\FinanceManager\obj\Debug\net8.0\FinanceManager.AssemblyInfo.cs
+C:\Users\y2p00\source\repos\FinanceManager\FinanceManager\obj\Debug\net8.0\FinanceManager.csproj.CoreCompileInputs.cache
+C:\Users\y2p00\source\repos\FinanceManager\FinanceManager\obj\Debug\net8.0\FinanceM.CEC114FE.Up2Date
+C:\Users\y2p00\source\repos\FinanceManager\FinanceManager\obj\Debug\net8.0\FinanceManager.dll
+C:\Users\y2p00\source\repos\FinanceManager\FinanceManager\obj\Debug\net8.0\refint\FinanceManager.dll
+C:\Users\y2p00\source\repos\FinanceManager\FinanceManager\obj\Debug\net8.0\FinanceManager.pdb
+C:\Users\y2p00\source\repos\FinanceManager\FinanceManager\obj\Debug\net8.0\FinanceManager.genruntimeconfig.cache
+C:\Users\y2p00\source\repos\FinanceManager\FinanceManager\obj\Debug\net8.0\ref\FinanceManager.dll
+C:\Users\y2p00\Downloads\Проект\FinanceManager\FinanceManager\bin\Debug\net8.0\FinanceManager.exe
+C:\Users\y2p00\Downloads\Проект\FinanceManager\FinanceManager\bin\Debug\net8.0\FinanceManager.deps.json
+C:\Users\y2p00\Downloads\Проект\FinanceManager\FinanceManager\bin\Debug\net8.0\FinanceManager.runtimeconfig.json
+C:\Users\y2p00\Downloads\Проект\FinanceManager\FinanceManager\bin\Debug\net8.0\FinanceManager.dll
+C:\Users\y2p00\Downloads\Проект\FinanceManager\FinanceManager\bin\Debug\net8.0\FinanceManager.pdb
+C:\Users\y2p00\Downloads\Проект\FinanceManager\FinanceManager\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\y2p00\Downloads\Проект\FinanceManager\FinanceManager\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\y2p00\Downloads\Проект\FinanceManager\FinanceManager\bin\Debug\net8.0\FinanceModel.dll
+C:\Users\y2p00\Downloads\Проект\FinanceManager\FinanceManager\bin\Debug\net8.0\FinanceModel.pdb
+C:\Users\y2p00\Downloads\Проект\FinanceManager\FinanceManager\obj\Debug\net8.0\FinanceManager.csproj.AssemblyReference.cache
+C:\Users\y2p00\Downloads\Проект\FinanceManager\FinanceManager\obj\Debug\net8.0\FinanceManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\y2p00\Downloads\Проект\FinanceManager\FinanceManager\obj\Debug\net8.0\FinanceManager.AssemblyInfoInputs.cache
+C:\Users\y2p00\Downloads\Проект\FinanceManager\FinanceManager\obj\Debug\net8.0\FinanceManager.AssemblyInfo.cs
+C:\Users\y2p00\Downloads\Проект\FinanceManager\FinanceManager\obj\Debug\net8.0\FinanceManager.csproj.CoreCompileInputs.cache
+C:\Users\y2p00\Downloads\Проект\FinanceManager\FinanceManager\obj\Debug\net8.0\FinanceM.CEC114FE.Up2Date
+C:\Users\y2p00\Downloads\Проект\FinanceManager\FinanceManager\obj\Debug\net8.0\FinanceManager.dll
+C:\Users\y2p00\Downloads\Проект\FinanceManager\FinanceManager\obj\Debug\net8.0\refint\FinanceManager.dll
+C:\Users\y2p00\Downloads\Проект\FinanceManager\FinanceManager\obj\Debug\net8.0\FinanceManager.pdb
+C:\Users\y2p00\Downloads\Проект\FinanceManager\FinanceManager\obj\Debug\net8.0\FinanceManager.genruntimeconfig.cache
+C:\Users\y2p00\Downloads\Проект\FinanceManager\FinanceManager\obj\Debug\net8.0\ref\FinanceManager.dll
+C:\Users\y2p00\Downloads\проект 2\FinanceManager\FinanceManager\bin\Debug\net8.0\FinanceManager.exe
+C:\Users\y2p00\Downloads\проект 2\FinanceManager\FinanceManager\bin\Debug\net8.0\FinanceManager.deps.json
+C:\Users\y2p00\Downloads\проект 2\FinanceManager\FinanceManager\bin\Debug\net8.0\FinanceManager.runtimeconfig.json
+C:\Users\y2p00\Downloads\проект 2\FinanceManager\FinanceManager\bin\Debug\net8.0\FinanceManager.dll
+C:\Users\y2p00\Downloads\проект 2\FinanceManager\FinanceManager\bin\Debug\net8.0\FinanceManager.pdb
+C:\Users\y2p00\Downloads\проект 2\FinanceManager\FinanceManager\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\y2p00\Downloads\проект 2\FinanceManager\FinanceManager\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\y2p00\Downloads\проект 2\FinanceManager\FinanceManager\bin\Debug\net8.0\FinanceModel.dll
+C:\Users\y2p00\Downloads\проект 2\FinanceManager\FinanceManager\bin\Debug\net8.0\FinanceModel.pdb
+C:\Users\y2p00\Downloads\проект 2\FinanceManager\FinanceManager\obj\Debug\net8.0\FinanceManager.csproj.AssemblyReference.cache
+C:\Users\y2p00\Downloads\проект 2\FinanceManager\FinanceManager\obj\Debug\net8.0\FinanceManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\y2p00\Downloads\проект 2\FinanceManager\FinanceManager\obj\Debug\net8.0\FinanceManager.AssemblyInfoInputs.cache
+C:\Users\y2p00\Downloads\проект 2\FinanceManager\FinanceManager\obj\Debug\net8.0\FinanceManager.AssemblyInfo.cs
+C:\Users\y2p00\Downloads\проект 2\FinanceManager\FinanceManager\obj\Debug\net8.0\FinanceManager.csproj.CoreCompileInputs.cache
+C:\Users\y2p00\Downloads\проект 2\FinanceManager\FinanceManager\obj\Debug\net8.0\FinanceM.CEC114FE.Up2Date
+C:\Users\y2p00\Downloads\проект 2\FinanceManager\FinanceManager\obj\Debug\net8.0\FinanceManager.dll
+C:\Users\y2p00\Downloads\проект 2\FinanceManager\FinanceManager\obj\Debug\net8.0\refint\FinanceManager.dll
+C:\Users\y2p00\Downloads\проект 2\FinanceManager\FinanceManager\obj\Debug\net8.0\FinanceManager.pdb
+C:\Users\y2p00\Downloads\проект 2\FinanceManager\FinanceManager\obj\Debug\net8.0\FinanceManager.genruntimeconfig.cache
+C:\Users\y2p00\Downloads\проект 2\FinanceManager\FinanceManager\obj\Debug\net8.0\ref\FinanceManager.dll

@@ -1,0 +1,33 @@
+C:\Users\y2p00\source\repos\FinanceManager\FinanceModel\bin\Debug\net8.0\FinanceModel.deps.json
+C:\Users\y2p00\source\repos\FinanceManager\FinanceModel\bin\Debug\net8.0\FinanceModel.dll
+C:\Users\y2p00\source\repos\FinanceManager\FinanceModel\bin\Debug\net8.0\FinanceModel.pdb
+C:\Users\y2p00\source\repos\FinanceManager\FinanceModel\obj\Debug\net8.0\FinanceModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\y2p00\source\repos\FinanceManager\FinanceModel\obj\Debug\net8.0\FinanceModel.AssemblyInfoInputs.cache
+C:\Users\y2p00\source\repos\FinanceManager\FinanceModel\obj\Debug\net8.0\FinanceModel.AssemblyInfo.cs
+C:\Users\y2p00\source\repos\FinanceManager\FinanceModel\obj\Debug\net8.0\FinanceModel.csproj.CoreCompileInputs.cache
+C:\Users\y2p00\source\repos\FinanceManager\FinanceModel\obj\Debug\net8.0\FinanceModel.dll
+C:\Users\y2p00\source\repos\FinanceManager\FinanceModel\obj\Debug\net8.0\refint\FinanceModel.dll
+C:\Users\y2p00\source\repos\FinanceManager\FinanceModel\obj\Debug\net8.0\FinanceModel.pdb
+C:\Users\y2p00\source\repos\FinanceManager\FinanceModel\obj\Debug\net8.0\ref\FinanceModel.dll
+C:\Users\y2p00\Downloads\Проект\FinanceManager\FinanceModel\bin\Debug\net8.0\FinanceModel.deps.json
+C:\Users\y2p00\Downloads\Проект\FinanceManager\FinanceModel\bin\Debug\net8.0\FinanceModel.dll
+C:\Users\y2p00\Downloads\Проект\FinanceManager\FinanceModel\bin\Debug\net8.0\FinanceModel.pdb
+C:\Users\y2p00\Downloads\Проект\FinanceManager\FinanceModel\obj\Debug\net8.0\FinanceModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\y2p00\Downloads\Проект\FinanceManager\FinanceModel\obj\Debug\net8.0\FinanceModel.AssemblyInfoInputs.cache
+C:\Users\y2p00\Downloads\Проект\FinanceManager\FinanceModel\obj\Debug\net8.0\FinanceModel.AssemblyInfo.cs
+C:\Users\y2p00\Downloads\Проект\FinanceManager\FinanceModel\obj\Debug\net8.0\FinanceModel.csproj.CoreCompileInputs.cache
+C:\Users\y2p00\Downloads\Проект\FinanceManager\FinanceModel\obj\Debug\net8.0\FinanceModel.dll
+C:\Users\y2p00\Downloads\Проект\FinanceManager\FinanceModel\obj\Debug\net8.0\refint\FinanceModel.dll
+C:\Users\y2p00\Downloads\Проект\FinanceManager\FinanceModel\obj\Debug\net8.0\FinanceModel.pdb
+C:\Users\y2p00\Downloads\Проект\FinanceManager\FinanceModel\obj\Debug\net8.0\ref\FinanceModel.dll
+C:\Users\y2p00\Downloads\проект 2\FinanceManager\FinanceModel\bin\Debug\net8.0\FinanceModel.deps.json
+C:\Users\y2p00\Downloads\проект 2\FinanceManager\FinanceModel\bin\Debug\net8.0\FinanceModel.dll
+C:\Users\y2p00\Downloads\проект 2\FinanceManager\FinanceModel\bin\Debug\net8.0\FinanceModel.pdb
+C:\Users\y2p00\Downloads\проект 2\FinanceManager\FinanceModel\obj\Debug\net8.0\FinanceModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\y2p00\Downloads\проект 2\FinanceManager\FinanceModel\obj\Debug\net8.0\FinanceModel.AssemblyInfoInputs.cache
+C:\Users\y2p00\Downloads\проект 2\FinanceManager\FinanceModel\obj\Debug\net8.0\FinanceModel.AssemblyInfo.cs
+C:\Users\y2p00\Downloads\проект 2\FinanceManager\FinanceModel\obj\Debug\net8.0\FinanceModel.csproj.CoreCompileInputs.cache
+C:\Users\y2p00\Downloads\проект 2\FinanceManager\FinanceModel\obj\Debug\net8.0\FinanceModel.dll
+C:\Users\y2p00\Downloads\проект 2\FinanceManager\FinanceModel\obj\Debug\net8.0\refint\FinanceModel.dll
+C:\Users\y2p00\Downloads\проект 2\FinanceManager\FinanceModel\obj\Debug\net8.0\FinanceModel.pdb
+C:\Users\y2p00\Downloads\проект 2\FinanceManager\FinanceModel\obj\Debug\net8.0\ref\FinanceModel.dll

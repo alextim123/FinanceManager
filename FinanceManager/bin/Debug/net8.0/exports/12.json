@@ -1,0 +1,24 @@
+[
+  {
+    "entity": "account",
+    "id": "1",
+    "name": "Njg",
+    "balance": 1000
+  },
+  {
+    "entity": "category",
+    "id": "1",
+    "name": "\u0422\u043E\u043F",
+    "type": "\u0414\u043E\u0445\u043E\u0434"
+  },
+  {
+    "entity": "operation",
+    "id": "1",
+    "type": "\u0414\u043E\u0445\u043E\u0434",
+    "bank_account_id": "1",
+    "category_id": "1",
+    "amount": 1000,
+    "date": "10 2000 10",
+    "description": null
+  }
+]

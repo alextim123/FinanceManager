@@ -1,0 +1,17 @@
+entity,id,name,balance,type,bank_account_id,category_id,amount,date,description
+account,acc-main,Основной счёт,0,,,,,,
+account,acc-save,Накопительный,0,,,,,,
+
+category,inc-salary,Зарплата,,Доход,,,,,
+category,inc-cashbk,Кэшбэк,,Доход,,,,,
+category,exp-cafe,Кафе,,Расход,,,,,
+category,exp-health,Здоровье,,Расход,,,,,
+
+operation,op-001,,,,acc-main,inc-salary,120000,"01 2025 11","Зарплата"
+operation,op-002,,,,acc-main,exp-cafe,1500,"02 2025 11","Кофе и ланч"
+operation,op-003,,,,acc-main,exp-health,4200,"03 2025 11","Аптека"
+operation,op-004,,,,acc-main,inc-cashbk,800,"03 2025 11","Кэшбэк"
+operation,op-005,,,,acc-main,exp-cafe,900,"04-2025-11","Кофе"
+operation,op-006,,,,acc-main,inc-salary,50000,"05.2025.11","Бонус"
+operation,op-007,,,,acc-main,exp-health,2200,"06/2025/11","Витамины"
+operation,op-007,,,,acc-main,exp-health,2200,"06/2025/11","Витамины"
